@@ -1,5 +1,4 @@
-
-import TuCarroProyectoFinal.Empleado.Tramite
+import Empleado.Tramite;
 
 public class Reporte {
 
