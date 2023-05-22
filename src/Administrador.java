@@ -28,6 +28,6 @@ public class Administrador extends Persona {
         // Lógica para ver los reportes de negocios realizados por los empleados
     }
 
-	
+	//prueba de 
 
 }
