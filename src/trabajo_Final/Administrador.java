@@ -1,15 +1,17 @@
+package trabajo_Final;
 
 import java.util.Date;
+
 public class Administrador extends Persona {
-	// Constructor
+    // Constructor
     public Administrador(String nombre, String apellido, int id, String correo, String contrasena) {
         super(nombre, apellido, id, correo, contrasena);
     }
 
     // Funcionalidades adicionales del administrador
 
-    public void registrarEmpleado(Empleado empleado) {
-        // Lógica para registrar un nuevo empleado en el sistema
+    public void registrarEmpleado (Empleado empleado) {
+        // Lógica para registrar un nuevo empleado en el sistema    	  	
     }
 
     public void actualizarEmpleado(Empleado empleado) {
@@ -28,6 +30,5 @@ public class Administrador extends Persona {
         // Lógica para ver los reportes de negocios realizados por los empleados
     }
 
-	//prueba de 
-
 }
+

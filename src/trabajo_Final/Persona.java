@@ -1,6 +1,7 @@
+package trabajo_Final;
 
 public class Persona {
-	private String nombre;
+    private String nombre;
     private String apellido;
     private int cedula;
     private String correo;
@@ -65,5 +66,5 @@ public class Persona {
     public void setContrasena(String contrasena) {
         this.contrasena = contrasena;
     }
-
 }
+

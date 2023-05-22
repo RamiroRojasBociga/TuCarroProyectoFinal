@@ -1,5 +1,6 @@
+package trabajo_Final;
 
-import TuCarroProyectoFinal.Empleado.Tramite
+import trabajo_Final.Empleado.Tramite;
 
 public class Reporte {
 
